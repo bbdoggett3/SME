@@ -76,4 +76,15 @@ function calculateSolar() {
     var panelsNeeded = Math.ceil(realWattNeeds / panelOutput);
     console.log(panelsNeeded);
 
+    //You can create the innerHTML in order to display the numbers to the user.
+    var feedback = "";
+    feedback += ""
+    feedback += ""
+    feedback += ""
+    feedback += ""
+    feedback += ""
+    feedback += "" 
+
+    
+
 } //end of function
